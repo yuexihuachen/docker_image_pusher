@@ -4,7 +4,7 @@ oven/bun
 
 mongo
 
-node
+node:24-alpine
 
 postgre
 
