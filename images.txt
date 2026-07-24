@@ -7,3 +7,5 @@ oven/bun
 mongo
 
 node:24
+
+openeuler/kylin
